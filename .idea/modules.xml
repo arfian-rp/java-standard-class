@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01. StringClass/01. StringClass.iml" filepath="$PROJECT_DIR$/01. StringClass/01. StringClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. StringBufferStringBuilderClass/02. StringBufferStringBuilderClass.iml" filepath="$PROJECT_DIR$/02. StringBufferStringBuilderClass/02. StringBufferStringBuilderClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. StringJoinerClass/03. StringJoinerClass.iml" filepath="$PROJECT_DIR$/03. StringJoinerClass/03. StringJoinerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04. StringTokenizerClass/04. StringTokenizerClass.iml" filepath="$PROJECT_DIR$/04. StringTokenizerClass/04. StringTokenizerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. NumberClass/05. NumberClass.iml" filepath="$PROJECT_DIR$/05. NumberClass/05. NumberClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. MathClass/06. MathClass.iml" filepath="$PROJECT_DIR$/06. MathClass/06. MathClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/068. Scanner/068. Scanner.iml" filepath="$PROJECT_DIR$/068. Scanner/068. Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07. BigNumber/07. BigNumber.iml" filepath="$PROJECT_DIR$/07. BigNumber/07. BigNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08. Scanner/08. Scanner.iml" filepath="$PROJECT_DIR$/08. Scanner/08. Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08. ScannerClass/08. ScannerClass.iml" filepath="$PROJECT_DIR$/08. ScannerClass/08. ScannerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09. DateAndCalenderClass/09. DateAndCalenderClass.iml" filepath="$PROJECT_DIR$/09. DateAndCalenderClass/09. DateAndCalenderClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. SystemClass/10. SystemClass.iml" filepath="$PROJECT_DIR$/10. SystemClass/10. SystemClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. RandomClass/11. RandomClass.iml" filepath="$PROJECT_DIR$/11. RandomClass/11. RandomClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. RuntimeClass/11. RuntimeClass.iml" filepath="$PROJECT_DIR$/11. RuntimeClass/11. RuntimeClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12. ArraysClass/12. ArraysClass.iml" filepath="$PROJECT_DIR$/12. ArraysClass/12. ArraysClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12. PropertiesFile/12. PropertiesFile.iml" filepath="$PROJECT_DIR$/12. PropertiesFile/12. PropertiesFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13. RegularExpression/13. RegularExpression.iml" filepath="$PROJECT_DIR$/13. RegularExpression/13. RegularExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaStandardClass.iml" filepath="$PROJECT_DIR$/.idea/JavaStandardClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpression/RegularExpression.iml" filepath="$PROJECT_DIR$/RegularExpression/RegularExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ougsyfd/ougsyfd.iml" filepath="$PROJECT_DIR$/ougsyfd/ougsyfd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uji/uji.iml" filepath="$PROJECT_DIR$/uji/uji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
